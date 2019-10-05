@@ -22,3 +22,5 @@ cd ~/dotfiles
 ```
 ./uninstall.sh
 ```
+
+This beautiful, colorful custom bash terminal shell for GNU/Linux was directly plagiarized from Tom Lawrence of LawrenceSystems.  Check out this great video (and many, many others) on his YouTube channel: https://youtu.be/rogn_4cQSHg
