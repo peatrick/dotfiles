@@ -24,4 +24,5 @@ cd ~/dotfiles
 ```
 
 This beautiful, colorful custom bash terminal shell for GNU/Linux was directly plagiarized from Tom Lawrence of LawrenceSystems, who in turn, borrowed it from someone else.  By utilizing these custom dotfiles, you can experience an improved commandprompt (see below) YMMV:
-~[dotfiles for GNU Bash](https://i.imgur.com/tlCA0po.png "GNU Bash")
+
+![alt text](https://i.imgur.com/tlCA0po.png "GNU Bash via remote SSH")
