@@ -1,4 +1,8 @@
 # Installation
+By utilizing these custom dotfiles, you can experience an improved commandprompt experience, YMMV:
+
+![alt text](https://i.imgur.com/tlCA0po.png "GNU Bash via remote SSH")
+
 ### Download and change folder
 ```
 cd ~
@@ -23,6 +27,4 @@ cd ~/dotfiles
 ./uninstall.sh
 ```
 
-This beautiful, colorful custom bash terminal shell for GNU/Linux was directly plagiarized from Tom Lawrence of LawrenceSystems, who in turn, borrowed it from someone else.  By utilizing these custom dotfiles, you can experience an improved commandprompt (see below) YMMV:
-
-![alt text](https://i.imgur.com/tlCA0po.png "GNU Bash via remote SSH")
+This beautiful, colorful custom bash terminal shell for GNU/Linux was directly plagiarized from Tom Lawrence of LawrenceSystems, who in turn, borrowed it from someone else.
